@@ -13,7 +13,7 @@
   • ECMAScript (es6) -Beginner
   • Svg - Basic
   • Responsive Layout - Experienced
-- 📫 You can write to the mail katerinalevkina7@yandex.ru
+- 📫 You can write to  mail katerinalevkina7@yandex.ru
 - Project:
 - 1. https://montazhenergostroi.ru/
 - 2. https://degorov.ru/massage/
